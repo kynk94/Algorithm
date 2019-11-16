@@ -1,0 +1,9 @@
+# File
+*.log
+*.bak
+*.pdf
+
+# Directory
+.idea/
+.ipynb_checkpoints/
+__pycache__/
