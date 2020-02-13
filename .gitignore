@@ -2,6 +2,7 @@
 *.log
 *.bak
 *.pdf
+*.DS_Store
 
 # Directory
 .idea/
